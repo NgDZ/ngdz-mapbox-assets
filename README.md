@@ -1,1 +1,1 @@
-"# ngdz-mapbox-assets" 
+# ngdz-mapbox-assets
